@@ -21,12 +21,8 @@ This is a simple **To-Do List** application built with C# and Windows Forms. The
 
 ## Screenshots
 
-1.
 ![Adding a Task](https://github.com/rumeysaulusoy/ToDoList/raw/main/screenshot1.jpg)
-2.
 ![Adding a Task](https://github.com/rumeysaulusoy/ToDoList/raw/main/screenshot2.jpg)
-3.
 ![Completing a Task](htts://github.com/rumeysaulusoy/ToDoList/raw/main/screenshot3.jpg)
-4.
 ![Deleting a Task](https://github.com/rumeysaulusoy/ToDoList/raw/main/screenshot4.jpg)
 
