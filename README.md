@@ -1,6 +1,6 @@
 # To-Do List Application
 
-This is a simple **To-Do List** application built with C# and Windows Forms. The application allows users to add, complete, and delete tasks from a list.
+This is a simple **To-Do List** application. The application allows users to add, complete, and delete tasks from a list.
 
 ## Features
 
