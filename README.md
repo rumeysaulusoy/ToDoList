@@ -23,6 +23,6 @@ This is a simple **To-Do List** application built with C# and Windows Forms. The
 
 ![Adding a Task](https://github.com/rumeysaulusoy/ToDoList/raw/main/screenshot1.jpg)
 ![Adding a Task](https://github.com/rumeysaulusoy/ToDoList/raw/main/screenshot2.jpg)
-![Completing a Task](htts://github.com/rumeysaulusoy/ToDoList/raw/main/screenshot3.jpg)
+![Completing a Task](https://github.com/rumeysaulusoy/ToDoList/raw/main/screenshot3.jpg)
 ![Deleting a Task](https://github.com/rumeysaulusoy/ToDoList/raw/main/screenshot4.jpg)
 
